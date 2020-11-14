@@ -1,6 +1,6 @@
 # Hi, I'm Chioma Amanda
 
-<img src="https://drive.google.com/file/d/1b5KF9w4NRVfa8x2NSSa2k17rzHLbhWL3/view?usp=sharing" alt="">
+<img src="https://raw.githubusercontent.com/Liimmaa/Liimmaa/main/My-Post.png" alt="">
 
 <!--
 **Liimmaa/Liimmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
